@@ -8,7 +8,8 @@
 Everything Wonderful about CryptoCurrency （加密貨幣）
 
 # 分類
-1. 幣種行情
+1. 數據｜幣種行情
+2. 數據｜期貨
 
 # 1.幣種行情
 
